@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Bhargavi Revu 👋
 
-<!--
-**bhargavirevu/bhargavirevu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Site Reliability Engineer with 11+ years of IT experience specializing in:
 
-Here are some ideas to get you started:
+- Kubernetes (EKS/On-Prem/GKE)
+- Terraform & Infrastructure as Code
+- AWS & GCP
+- DevOps & CI/CD
+- Observability & Monitoring
+- ELK / Prometheus / Grafana
+- GitOps & Platform Engineering
+- Incident Management & Reliability Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Multi-cloud Kubernetes platforms
+- Observability engineering
+- Infrastructure automation
+- Cloud-native reliability
+
+## Tech Stack
+Kubernetes | Terraform | AWS | GCP | Docker | Helm | Jenkins | FluxCD | ELK | Prometheus | Grafana | Linux
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/bhargavi-revu-45991144
